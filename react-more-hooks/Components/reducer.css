@@ -1,0 +1,32 @@
+.body{
+    /* border: 1px solid red; */
+   text-align: center;
+   margin-top: 8%;
+}
+
+.body input{
+    width: 500px;
+    height: 50px;
+    border: 3px solid blue;
+}
+
+.text{
+    margin-top: 20px;
+    background-color: peachpuff;
+}
+
+.text button{
+    margin-bottom:10px ;
+    border: none;
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.focus{
+    margin-top: 10px;
+    border: none;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+}
